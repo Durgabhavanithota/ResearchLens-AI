@@ -1,0 +1,9 @@
+
+.venv/
+__pycache__/
+*.pyc
+data/uploaded_papers/
+data/processed_data/
+reports/
+.env
+.streamlit/secrets.toml
